@@ -2,10 +2,10 @@
 
 @import "tailwindcss";
 
-/* @font-face {
+@font-face {
     font-family: "Modern Negra";
     src: url("/fonts/Modern Negra Demo.ttf") format("truetype");
-} */
+}
 
 @theme {
     --color-yellow: #e7d393;
